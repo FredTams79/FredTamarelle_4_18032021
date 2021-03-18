@@ -24,11 +24,11 @@ Optimiser ce site web existant :
 
 - Utiliser le modèle fourni en identifiant 10 recommandations.
 
-  **Code source**
+**Code source**
 
 - Code complet du site.
 
-  **Rapport d'optimisation**
+**Rapport d'optimisation**
 
 - Comparaison des résultats.
 
