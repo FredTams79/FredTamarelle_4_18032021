@@ -2,9 +2,9 @@
 
 Projet n°4 "Développeur web" d'OpenClassroom.
 
-La chouette agence est une agence de web design basée à Lyon.
-Aujourd'hui en perte de vitesse et seulement en 2éme page des moteurs de recherche avec les mots clés :
-"entreprise web design Lyon"
+- La chouette agence est une agence de web design basée à Lyon.
+- Aujourd'hui en perte de vitesse et seulement en 2éme page des moteurs de recherche.
+- Recherche avec les mots clés : "Entreprise web design Lyon"
 
 ## Objectifs
 
@@ -20,12 +20,13 @@ Optimiser ce site web existant :
 
 ## Livrables
 
-- **Rapport d'analyse SEO**
-  Utiliser le modèle fourni en identifiant 10 recommandations.
-- **Code source**
-  Code complet du site.
-- **Rapport d'optimisation**
-  Comparaison des résultats.
+**Rapport d'analyse SEO**
+
+- Utiliser le modèle fourni en identifiant 10 recommandations.
+  **Code source**
+- Code complet du site.
+  **Rapport d'optimisation**
+- Comparaison des résultats.
 
 ## Résultat
 
