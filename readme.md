@@ -16,7 +16,7 @@ Optimiser ce site web existant :
 
 [Scénario complet ici](https://openclassrooms.com/fr/paths/185/projects/638/assignment)
 
-![screenshot du projet](./img/la-chouette-agence.png)
+![screenshot du projet](./img/logo_02.png)
 
 ## Livrables
 
@@ -26,7 +26,7 @@ Optimiser ce site web existant :
   Code complet du site.
 - **Rapport d'optimisation**
   Comparaison des résultats.
-  
+
 ## Résultat
 
 [La Chouette Agence !!!](https://fredtams79.github.io/FredTamarelle_4_18032021/)
