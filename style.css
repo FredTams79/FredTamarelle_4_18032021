@@ -272,6 +272,10 @@ a:hover {
   margin-top: 80px;
 }
 
+.row {
+  margin: auto !important;
+}
+
 .row-no-gutters {
   margin-right: 0;
   margin-left: 0;
@@ -702,7 +706,7 @@ p {
 }
 
 .social {
-  max-width: 400px;
+  /*max-width: 400px;*/
   margin: auto auto auto auto;
 }
 

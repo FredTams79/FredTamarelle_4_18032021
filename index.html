@@ -22,11 +22,27 @@
     <!-- Conversion favicon.png en .ico -->
     <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
 
-    <!-- Minifier les fichiers css (A FAIRE) -->
-    <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" />
+    <!-- Minifier style.css (A FAIRE) -->
     <link rel="stylesheet" type="text/css" href="style.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font-awesome.css" />
-    <link rel="stylesheet" type="text/css" href="./css/et-line.css" />
+
+    <!-- CDN -->
+    <!-- CDN bootstrap v3.3.5 | Latest compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
+    />
+    <!-- CDN font-awesome - 4.7.0 -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw=="
+      crossorigin="anonymous"
+    />
+    <!-- CDN et-line -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/et-line@1/style.min.css"
+    />
 
     <!-- Autorise l'indexationdans moteur recherche -->
     <meta name="robots" content="index, follow" />
@@ -116,7 +132,7 @@
               alt="logo la chouette agence"
             />
             <h1 class="text-center hero-bloc-text tc-white">
-              La chouette agence<br />
+              LA CHOUETTE AGENCE !<br />
               Entreprise de Web Design à Lyon
             </h1>
             <div class="text-center">
@@ -362,13 +378,19 @@
     </section>
     <!-- bloc-5-cta END -->
 
+    <!-- ScrollToTop Button -->
+    <a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"
+      ><span class="fa fa-chevron-up"></span
+    ></a>
+    <!-- ScrollToTop Button END-->
+
     <!-- Footer - bloc-8 -->
     <footer class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
       <div class="container bloc-sm">
         <div class="row">
           <div class="col-sm-12">
             <p class="text-center white">
-              La chouette agence - Agence web basée à Lyon.<br />
+              La chouette agence - Agence web basée à Lyon.<br /><br />
             </p>
             <div class="row row-no-gutters social">
               <!-- Modifications des liens des icones réseaux sociaux -->
@@ -423,11 +445,28 @@
     <!-- Principal conteneur END -->
 
     <!--  Javascript -->
-    <script async src="./js/jquery-2.1.0.js"></script>
-    <script async src="./js/bootstrap.js"></script>
     <script async src="./js/blocs.js"></script>
-    <script defer src="./js/jquery.touchSwipe.js"></script>
-    <script defer src="./js/gmaps.js"></script>
+
+    <!-- CDN jQuery-2.1.0 -->
+    <script
+      src="https://code.jquery.com/jquery-2.1.0.min.js"
+      integrity="sha256-8oQ1OnzE2X9v4gpRVRMb1DWHoPHJilbur1LP9ykQ9H0="
+      crossorigin="anonymous"
+    ></script>
+    <!-- CDN jQuery.touchSwipe-1.6.18 -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"
+      integrity="sha512-BNs09vwMdfabwyH36BehO8DJbV5S6RaO0vXqPqiMhYC8mZ4WsfwwPEVhMOl5D7gyrTSDDv98f3HgaOUDlFhywg=="
+      crossorigin="anonymous"
+    ></script>
+    <!-- CDN gmaps-V0.4.25 -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js"
+      integrity="sha512-gauu0VKZq9ry8hOZHgNpcB2ogbSDojs+XLDItpOLY0IyA+KigeuT/suwSdPgfU/TGYLAn4Nan4OeaCa/UPr70Q=="
+      crossorigin="anonymous"
+    ></script>
+    <!-- CDN et-line -->
+    <script src="https://cdn.jsdelivr.net/npm/et-line@1/lte-ie7.min.js"></script>
     <!-- Javascript END -->
   </body>
 </html>
