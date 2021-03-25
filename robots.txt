@@ -1,0 +1,11 @@
+# fichier pour tout les robots du site https://fredtams79.github.io/FredTamarelle_4_18032021/
+
+# autorise l’accès à tous les robots
+User-Agent: *
+
+# interdit l'accès aux URl et dossiers
+Disallow: /
+
+
+#lien vers le sitemap pour le référencement
+sitemap : https://fredtams79.github.io/FredTamarelle_4_18032021/Sitemap.xml
