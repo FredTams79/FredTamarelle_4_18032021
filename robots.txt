@@ -4,8 +4,8 @@
 User-Agent: *
 
 # interdit l'accès aux URl et dossiers
-Disallow: /
+Disallow:
 
 
 #lien vers le sitemap pour le référencement
-sitemap : https://fredtams79.github.io/FredTamarelle_4_18032021/Sitemap.xml
+sitemap : https://fredtams79.github.io/FredTamarelle_4_18032021/sitemap.xml

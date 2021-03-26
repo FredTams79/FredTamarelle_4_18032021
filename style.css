@@ -330,6 +330,7 @@ a:hover {
   float: left;
   margin-top: 4px;
   font-size: 16px;
+  text-transform: uppercase;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -481,7 +482,7 @@ button {
 }
 
 .icon-md {
-  font-size: 30px !important;
+  font-size: 40px !important;
 }
 
 .icon-lg {
@@ -665,7 +666,7 @@ a {
 }
 
 .hero-bloc-text {
-  font-size: 38px;
+  font-size: 45px;
 }
 
 .hero-bloc-text-sub {
@@ -683,12 +684,22 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 16px;
+}
+
+.text-group {
+  font-size: 16px !important;
+}
+
+.text-label {
+  font-size: 14px !important;
+  font-style: italic !important;
 }
 
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
+  font-size: 18px !important;
 }
 
 .h1 {
@@ -747,6 +758,8 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .portfolio-row {
@@ -777,16 +790,26 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #c74e10;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffffff !important;
+}
+
+.tc-yellow {
+  color: #faf050 !important;
+}
+
+.tc-neon-yellow {
+  color: #ffff05 !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #c74e10;
   color: #ffffff !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -968,7 +991,7 @@ h4 {
     box-shadow: none;
   }
   .navbar-brand img {
-    max-height: 40px;
+    max-height: 45px;
     width: auto;
   }
   .nav-invert .navbar-header {
