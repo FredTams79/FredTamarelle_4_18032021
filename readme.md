@@ -16,7 +16,7 @@ Optimiser ce site web existant :
 
 [Scénario complet ici](https://openclassrooms.com/fr/paths/185/projects/638/assignment)
 
-![screenshot du projet](./img/logo_02.png)
+![screenshot du projet](./img/logo1.png)
 
 ## Livrables
 
